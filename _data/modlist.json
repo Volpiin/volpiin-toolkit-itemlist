@@ -208,8 +208,128 @@
     "name": "Vanilla Animals Expanded — Tundra"
   },
   {
+    "author": "Spdskatr, CaesarV6",
+    "name": "Damage Indicators [1.2]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.965"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Furniture Expanded - Props and Decor"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.2.0.7"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage - Refrigeration"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": "2260012940",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Share The Load",
+    "steamId": "1356838246",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "RIMkea"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.2342"
+  },
+  {
+    "author": "Crlsniper",
+    "name": "Realistic Rooms"
+  },
+  {
+    "author": "GassyTaco",
+    "name": "Prisoner Harvesting"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time"
+  },
+  {
+    "author": "PorqueNoLosDos (Updated By CrashM)",
+    "name": "CM Color Coded Mood Bar [1.1+]",
+    "steamId": "2006605356",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight"
+  },
+  {
     "author": "Oskar Potocki, Trunken",
     "name": "Vanilla Furniture Expanded - Production"
+  },
+  {
+    "author": "ALIEN",
+    "name": "Arasaka Corporation [1.2]"
   },
   {
     "author": "Oskar Potocki, Trunken, XeoNovaDan",
@@ -248,16 +368,16 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "5.0.3.2"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
